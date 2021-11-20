@@ -1,0 +1,52 @@
+.info{
+    text-align: center;
+}
+
+.banner {
+    text-align: center;
+    background-color: lightblue;
+    padding-top: 20px;
+}
+.banner p {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.bold {
+    font-weight: bold;
+}
+.bottom {
+    font-size: 18px;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: whitesmoke;
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#twitter ul {
+    list-style-type: none;
+}
+
+.avatar {
+    background-image: url(https://avatarfiles.alphacoders.com/180/180821.jpg);
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
